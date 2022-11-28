@@ -1,7 +1,7 @@
   
 <p align="center">  
   <a href="https://citel.vercel.app/">
-    <img alt="secktor docs" height="300" src="https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png">
+    <img alt="secktor docs" height="300" src="https://cdn.filestackcontent.com/pdn7PhZdT02GoYZCVYeF">
     <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
