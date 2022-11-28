@@ -1,7 +1,7 @@
 {
-               "name": "Secktor-Md",
+               "name": "NASS-WORKS",
                "version": "0.0.6",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "NASS-WORKS BOT.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
                 "stop": "pm2 stop secktor"
                 },
-               "author": "SamPandey001",
+               "author": "NASS-WORKS",
               "dependencies": {
                        "@adiwajshing/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -62,10 +62,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+github"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "NASS-WORKS"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "Menu"
                   }
